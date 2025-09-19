@@ -1,59 +1,119 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique and redesign (MakeoverMonday)
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+_Link to Original Data Visualization_ : https://resume.io/blog/which-country-gets-the-most-paid-vacation-days
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+## Step one: Choosing the visualization
 
-## Step one: the visualization
+Visualization Used: “Which Country Gets the Most Paid Vacation Days” by Resume.io
+Source: Resume.io Blog
+URL: https://resume.io/blog/which-country-gets-the-most-paid-vacation-days
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Why I Selected This Visualization?
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I chose this visualisation because paid vacation days are an internationally relevant topic, with clear implications for work-life balance, labour rights, and cultural variations between countries. The original chart clearly highlighted international variations in statutory paid leave and public holidays, but it was presented in a cluttered and difficult-to-read format. For example, it did not clearly distinguish between the two contributing components (paid leave days and public holidays), nor did it highlight notable exceptions such as the United States (0 days) or Iran (53 days).
 
-## Step three: Sketch a solution
+– In my redesign, I used stacked horizontal bar charts to illustrate how total vacation days are divided between statutory paid leave and public holidays.
+
+– Use stacked bars with labels to distinguish between two categories and display totals.
+
+– Top 10 and Bottom 10 Panels: Showcases both the greatest and worst situations without overwhelming the spectator.
+
+– Annotations and Subtitles: Highlight crucial ideas (Iran has 53 days of statutory leave, while the United States has none).
+
+– Consistent Colours: Dark blue for statutory leave (formal and stable), teal for public holidays (lighter, joyous).
+
+– These choices enhance comparison, provide context, and create a narrative flow from best to worst scenarios.
+
+## Step two: Critique the Data Visualization
+
+The Resume.io maps on paid vacation days caught my attention right away with their vibrant colours and quirky design, but I found them more difficult to understand than I had anticipated. When you see how stark the differences are, such as Iran's 53 days vs the United States' zero statutory leave, the maps do a fantastic job of drawing attention and igniting discussion. However, the crowded labels and faint colour ranges made it difficult to compare countries directly as I attempted to make sense of the data. I also found that the definition of "paid leave" and the source of the data were not well explained, which left me with several unresolved doubts. Although I can understand why these images are effective for a broad audience, they are entertaining, shareable, and create discussion, if I were rebuilding them, I would probably use bar charts or include numbers to help simplify the story. I felt like it served as a helpful reminder that, when actual comprehension is the goal, clarity and context are just as crucial as aesthetics and engagement.
+
+## Step three: Sketch out a solution
+Following my critique of the Resume.io maps, I began to consider how I may redesign the visualisation to make it more understandable and practical for comparison while maintaining its appeal to a broad audience. Although the initial choropleth maps are eye-catching and vibrant, they rapidly become congested and make it difficult to compare nations directly, particularly smaller ones.
+
+- Instead of using maps for my makeover, I would like to employ stacked horizontal bar charts. This will enable me to:
+
+- Keep public holidays and statutory paid leave distinct while still displaying their total.
+
+- Create two panels: the Top 10 countries with the most vacation days and the Bottom 10 countries with the fewest.
+
+- The subtitles to give context (e.g., Iran leading, U.S. with 0 statutory leave), while the titles will frame the primary subject.
+
+_I drew a basic wireframe using pen and paper:_
+
+- Each of the two vertically stacked panels has a title and a subtitle.
+  
+- Every nation is represented by a horizontal bar with two colours: lighter for public holidays and darker for mandatory leave.
+  
+- Labels with numbers inside the bar and a bold sum at the end.
+
+This wireframe maintains the original narrative elements while increasing clarity and simplifying comparisons. In order to overlay annotations, alter labels, and test out interaction if necessary, I would probably construct the redesign in Tableau.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Procedure for Testing - 
 
-Questions to ask (modify these for your own interviews): 
+I showed to my peers my updated visualisation, which consists of stacked bar charts that rank the top and bottom 10 nations by the total number of paid vacation days. I let them make their own interpretations of the chart rather than explaining it to them. To facilitate the feedback session, I wrote a brief interview script.
 
-- Can you tell me what you think this is?
+Script / Questions: 
 
-- Can you describe to me what this is telling you?
+Can you tell me what you think this is?
 
-- Is there anything you find surprising or confusing?
+Can you describe to me what this visualization is showing?
 
-- Who do you think is the intended audience for this?
+Is there anything you find surprising or confusing?
 
-- Is there anything you would change or do differently?
+Who do you think is the intended audience for this?
 
-Results: 
+Is there anything you would change or do differently?
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Feedback : 
 
+i. Mid-20s student: "It's obvious that the United States has the fewest and Iran has the most." I appreciate the way the numbers are shown, however it took me a moment to distinguish between public holidays and mandatory leave.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+ii. Student, BME program: "The titles and subtitles are useful, but I wonder if the colours could be adjusted slightly to make the two parts stand out more"
 
-Synthesis: 
+iii. Student, with prev business analytics experience: "It's much easier to read than the original maps, my only recommendation would be to have both charts on the same dashboard and to lessen the amount of text (decimal points) inside the bars.” 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Feedback Patterns
+
+- I didn't have to explain the key plot point, which was the extremes between Iran and the United States.
+  
+- Although there was a repeated recommendation to make the labels simpler, everyone thought the layout was clearer than the original.
+  
+- Although colour difference was often apparent, one person recommended experimenting with different palettes.
+  
+Insights: 
+
+In addition to highlighting areas for improvement, such as reducing label clutter and testing colour accessibility, the comments indicated that the redesign had successfully enhanced clarity and storytelling. With these changes, the end result will be even more easy to understand.
+
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I intended to make it evident which nations provide the most and the fewest paid vacation days by dividing the totals into public holidays and statutory paid leave days in this visualisation. I utilised stacked horizontal bar charts in place of the original's cluttered world map to make comparisons clearer and easier to read. To allow readers to easily observe both extremes, I divided the chart into two panels: one for the top ten countries and one for the bottom ten. The most surprising aspects of the tale are told by the prominent outliers, such as Iran, which has 53 total days of statutory leave, and the United States, which has none. My objective was to strike a balance between narrative and clarity so that the viewers would get the distinctions right away and require minimal further explanation.
+
+Link to my redesign: https://public.tableau.com/views/TSWD_MakeoverMonday_vudgirka/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<div class='tableauPlaceholder' id='viz1758250438407' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD_MakeoverMonday_vudgirka&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWD_MakeoverMonday_vudgirka&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD_MakeoverMonday_vudgirka&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1758250438407');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 
 ## References
-_List any references you used here._
+https://resume.io/blog/which-country-gets-the-most-paid-vacation-days
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used Gen-AI to help me understand the dataset and the article, brainstorming and framing the title and subtitle of the dashboard. 
+
 
