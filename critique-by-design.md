@@ -32,8 +32,7 @@ The Resume.io maps on paid vacation days caught my attention right away with the
 
 Visualization on the Website:
 
-https://40209.cdn.cke-cs.com/IqAQDlIhtYvhgCGhpc5C/images/0a628231d3dee9407e9bc560b08fa313490c4eeba0f0232c.png/w_2400
-
+![Alt text]([images/my_viz.png](https://40209.cdn.cke-cs.com/IqAQDlIhtYvhgCGhpc5C/images/0a628231d3dee9407e9bc560b08fa313490c4eeba0f0232c.png/w_2400))
 
 ## Step three: Sketch out a solution
 Following my critique of the Resume.io maps, I began to consider how I may redesign the visualisation to make it more understandable and practical for comparison while maintaining its appeal to a broad audience. Although the initial choropleth maps are eye-catching and vibrant, they rapidly become congested and make it difficult to compare nations directly, particularly smaller ones.
