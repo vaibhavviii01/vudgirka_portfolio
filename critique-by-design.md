@@ -30,6 +30,11 @@ I chose this visualisation because paid vacation days are an internationally rel
 
 The Resume.io maps on paid vacation days caught my attention right away with their vibrant colours and quirky design, but I found them more difficult to understand than I had anticipated. When you see how stark the differences are, such as Iran's 53 days vs the United States' zero statutory leave, the maps do a fantastic job of drawing attention and igniting discussion. However, the crowded labels and faint colour ranges made it difficult to compare countries directly as I attempted to make sense of the data. I also found that the definition of "paid leave" and the source of the data were not well explained, which left me with several unresolved doubts. Although I can understand why these images are effective for a broad audience, they are entertaining, shareable, and create discussion, if I were rebuilding them, I would probably use bar charts or include numbers to help simplify the story. I felt like it served as a helpful reminder that, when actual comprehension is the goal, clarity and context are just as crucial as aesthetics and engagement.
 
+Visualization on the Website:
+
+https://40209.cdn.cke-cs.com/IqAQDlIhtYvhgCGhpc5C/images/0a628231d3dee9407e9bc560b08fa313490c4eeba0f0232c.png/w_2400
+
+
 ## Step three: Sketch out a solution
 Following my critique of the Resume.io maps, I began to consider how I may redesign the visualisation to make it more understandable and practical for comparison while maintaining its appeal to a broad audience. Although the initial choropleth maps are eye-catching and vibrant, they rapidly become congested and make it difficult to compare nations directly, particularly smaller ones.
 
