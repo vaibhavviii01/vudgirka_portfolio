@@ -99,6 +99,21 @@ In addition to highlighting areas for improvement, such as reducing label clutte
 
 I intended to make it evident which nations provide the most and the fewest paid vacation days by dividing the totals into public holidays and statutory paid leave days in this visualisation. I utilised stacked horizontal bar charts in place of the original's cluttered world map to make comparisons clearer and easier to read. To allow readers to easily observe both extremes, I divided the chart into two panels: one for the top ten countries and one for the bottom ten. The most surprising aspects of the tale are told by the prominent outliers, such as Iran, which has 53 total days of statutory leave, and the United States, which has none. My objective was to strike a balance between narrative and clarity so that the viewers would get the distinctions right away and require minimal further explanation.
 
+**My Redesign:**
+
+- **Two-panel layout for side-by-side comparison of countries with the highest and lowest totals.**
+- **Stacked bars with clear numeric labels that display both vacation day components**
+<img width="994" height="714" alt="image" src="https://github.com/user-attachments/assets/3b1be705-c38c-47bf-9df1-a8bf6467efa1" />
+
+- **Interactive tooltips that provide details when hovering over individual bars**
+  
+<img width="994" height="714" alt="image" src="https://github.com/user-attachments/assets/173117f5-72f3-4eaf-aaed-fa51237d40f3" />
+<img width="994" height="714" alt="image" src="https://github.com/user-attachments/assets/63d866a1-a04d-4162-a525-61bd58699037" />
+<img width="994" height="714" alt="image" src="https://github.com/user-attachments/assets/7d4385c6-a707-4c49-9cc8-dab2ec15d46d" />
+
+
+
+
 **Link to my redesign:** [https://public.tableau.com/views/TSWD_MakeoverMonday_vudgirka/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ](https://public.tableau.com/views/TSWD_MakeoverMonday_vudgirka2/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
