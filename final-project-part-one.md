@@ -15,43 +15,43 @@ The analysis aims to address the following important questions:
 The goal of this analysis is to develop a story about fitness efficiency, diversity in exercise routines, and useful health insights by integrating descriptive analysis, clustering, and performance benchmarks. The story is intended to be both engaging and evidence-based, providing researchers, coaches, and fitness lovers with data-driven insights.
 
 
-## Initial sketches
+# Initial sketches
 
 As fitness becomes more and more data-driven, examining the connections between demographics, exercise preferences, and physiological results can provide information that helps researchers, trainers, and individuals. I found that the dataset of 973 users of gyms offers a special chance to explore the relationships between fitness, exercise, and health. Along with physiological and demographic information like age, gender, BMI, and body fat percentage, it also includes metrics related to workout performance like heart rate, number of calories burned, and length of session. This combination will enable me to examine both physiological and behavioral patterns, contributing to the resolution of more general inquiries about effectiveness, well-being, and fitness advancement.
 
-# Sketch 1:
+## Sketch 1:
 
-# Examining Disparities by Gender
+## Examining Disparities by Gender
 
 First, the analysis looks at whether gender makes a difference in workout performance, an issue that is frequently brought up in fitness and health research. The visualisation aims to determine whether there are significant differences in workout intensity or results between male and female gym customers by comparing their average heart rates, session duartion, and calories burned. I want to provide evidence-based insights into how gender may affect exercise behaviors and physiological responses.
 
 <img width="773" height="602" alt="image" src="https://github.com/user-attachments/assets/1f5a411e-4256-47a3-947d-c2df09f355d4" />
 
-# Sketch 2: 
+## Sketch 2: 
 
-# Comparisons of Workout Types
+## Comparisons of Workout Types
 
 The project then examines workout styles, determining which sorts of exercise are best for increasing cardiovascular demand and burning calories. The analysis will show which routines burn the most calories each session and which maintain higher average and maximum heart rates by classifying members according to workout categories like cardio, strength training, yoga, and HIIT. The purpose of these comparisons is to demonstrate the manner in which various training approaches affect cardiovascular health and energy expenditure, offering insightful conclusions for those looking to customize their workouts to meet certain objectives.
 
 <img width="1004" height="771" alt="image" src="https://github.com/user-attachments/assets/68e46b59-bf17-4c62-8f83-dc1ccdda0f3f" />
 
-# Sketch 3: 
+## Sketch 3: 
 
-# Grouping Participants into Clusters
+## Grouping Participants into Clusters
 
 The visualisation uses clustering techniques to divide gym members into discrete groups according to workout habits, going beyond descriptive comparisons. Clustering will assist in identifying organic patterns that classify individuals into profiles such as "endurance-focused," "high-intensity," or "casual trainers" based on attributes like session length, workout frequency, and calories burned. Through this, I want to demonstrate that, a more comprehensive understanding of exercise routines is offered by the segmentation, which portrays that fitness practices differ greatly among people rather than being consistent. The clusters provide a simple method of comprehending the variety of methods people use to approach their exercise regimens.
 
 <img width="988" height="759" alt="image" src="https://github.com/user-attachments/assets/82bd297c-c3f3-4c32-b359-488b909c3b50" />
 
-# Sketch 4: 
+## Sketch 4: 
 
-# Health Indicators & Hazard Assessment
+## Health Indicators & Hazard Assessment
 
 By using standards pertaining to BMI, resting heart rate, and workout frequency, the research also looks into possible health hazards among gym patrons. As an example of how data can be utilized to uncover warning indicators, members with high BMI numbers, elevated resting heart rates, and infrequent workouts are identified as potentially at danger. I want to emphasize how crucial it is to track several health indicators concurrently rather than separately in order to provide a more comprehensive evaluation of general fitness and wellbeing.
 
 <img width="988" height="759" alt="image" src="https://github.com/user-attachments/assets/1686fad7-ebf7-46fc-83b0-e7f2e4a32b84" />
 
-## The data
+# The Data
 
 The Gym Members Exercise Dataset [Kaggle – Gym Members Exercise Dataset], offers comprehensive records of fitness and health characteristics for gym members, serves as the main dataset for this project. Along with workout-specific variables like session duration, calories burnt, heart rate (resting, average, maximum), body fat percentage, water intake, workout frequency, and experience level, it includes demographic data like age, gender, height, and weight. This dataset provides a solid basis for researching exercise habits, examining health metrics, and determining workout effectiveness. It strikes a mix between breadth and depth with almost 1,000 examples, allowing for both descriptive and predictive analysis across a variety of fitness characteristics.
 
