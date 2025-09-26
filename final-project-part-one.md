@@ -15,6 +15,15 @@ The analysis aims to address the following important questions:
 
 The goal of this analysis is to develop a story about fitness efficiency, diversity in exercise routines, and useful health insights by integrating descriptive analysis, clustering, and performance benchmarks. The story is intended to be both engaging and evidence-based, providing researchers, coaches, and fitness lovers with data-driven insights.
 
+## Story Arc
+
+I began this project with a simple curiosity: what can the everyday workout patterns of nearly a thousand gym members reveal about fitness, health, and risk?
+I plan to work with a dataset that includes 973 people and recorded their demographic information (such as age, gender, and BMI) as well as their workout performance metrics (such as heart rate, calories burned, and session time). Instead of focusing solely on the numbers, I wanted to find the stories that lie behind the data, including how people exercise, how successful their workouts are, and what health indicators can be concealed in plain sight.
+
+I will explore four major stories that are concealed within the dataset in this project. First, I'll compare metrics like heart rate, session length, and calories burned to see if gender affects how well people perform during workouts. I'll then examine various training styles to determine which ones are best for increasing cardiovascular intensity and burning calories. After that, I'll use clustering techniques to put individuals into groups according to how they work out, exposing natural behavioral patterns. Lastly, in order to discover possible at-risk groups and healthier profiles, I will map BMI and resting heart rate to examine health concerns.
+
+With this project, I will turn a dataset of gym members into an insightful story about risk, exercise, and health. Along with highlighting variations in exercise habits, the results will offer information that can assist people maximize their exercises, comprehend their personal fitness profiles, and identify any health hazards sooner. In the end, this analysis will help show how data can be used to bridge the gap between numbers and actual wellbeing, transforming unprocessed data into knowledge that can be used by health researchers and fitness enthusiasts alike. 
+
 
 # Initial sketches
 
@@ -75,4 +84,4 @@ From providing background information and introducing the dataset to examining g
 2. Grammarly. (n.d.). Grammarly: Free writing AI assistance [Software]. Grammarly, Inc. Retrieved September 25, 2025, from https://www.grammarly.com
 
 ## AI acknowledgements
-I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout.
+I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline and help me to brainstorm titles.
