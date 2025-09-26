@@ -58,6 +58,7 @@ The Gym Members Exercise Dataset [Kaggle – Gym Members Exercise Dataset], offe
 I will utilize the dataset to investigate a number of important topics for this project, including whether workout outcomes for men and women differ, what kinds of workouts are best for heart rate intensity and calorie burn, and how gym patrons might be categorized into useful groups based on workout habits. In order to identify people who may be at risk, I will also look at health metrics like BMI and resting heart rate. I will also compute workout efficiency (calories burned per hour) and provide helpful advice. Through these visualisations, I will be able to relate exercise results to demographic characteristics and offer practical advice for enhancing fitness regimens.
 
 The dataset is publicly available on Kaggle and can be accessed at the following link:
+
 🔗 Gym Members Exercise Dataset – https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data
 
 
