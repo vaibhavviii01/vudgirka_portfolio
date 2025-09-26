@@ -5,7 +5,8 @@
 
 This analysis and visualisation uses a dataset of almost 1,000 samples that combines fitness measures, activity characteristics, and demographic information to investigate exercise and health trends among gym patrons. Finding important information about exercise habits, performance-influencing variables, and behaviors that may be signs of health problems is the aim.
 
-** The analysis aims to address the following important questions: **
+The analysis aims to address the following important questions: 
+
 - Do workout outcomes, such as heart rate or calories burned, differ between men and women?
 - Which forms of exercise are best for cardiovascular demand and calorie efficiency?
 - Is it possible to divide members of the gym into different groups depending on how they work out?
@@ -56,7 +57,7 @@ The Gym Members Exercise Dataset [Kaggle – Gym Members Exercise Dataset], offe
 
 I will utilize the dataset to investigate a number of important topics for this project, including whether workout outcomes for men and women differ, what kinds of workouts are best for heart rate intensity and calorie burn, and how gym patrons might be categorized into useful groups based on workout habits. In order to identify people who may be at risk, I will also look at health metrics like BMI and resting heart rate. I will also compute workout efficiency (calories burned per hour) and provide helpful advice. Through these visualisations, I will be able to relate exercise results to demographic characteristics and offer practical advice for enhancing fitness regimens.
 
-# The dataset is publicly available on Kaggle and can be accessed at the following link:
+The dataset is publicly available on Kaggle and can be accessed at the following link:
 🔗 Gym Members Exercise Dataset – https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data
 
 
