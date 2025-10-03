@@ -10,6 +10,8 @@ This story's trajectory reflects the path of health itself: we start with the be
 However, this endeavor is about more than just fitness; it's about comprehending how exercise affects our mental health. Calorie tracking and step counting only provide just a part of the picture. The deeper value of exercise is in how it helps us sleep better, manage stress, reduce anxiety, and feel more resilient in daily life. When we look at the data this way, a workout session is not just burning calories, it’s building mental strength.
 I will use this storyboard as the basis for my Part III draft in Shorthand, where I will polish the narrative and improve the flow.
 
+Shorthand Preview Link (Work in Progress): [Calories to Clarity: Shorthand Story](https://preview.shorthand.com/CADmoqkNLru82Gat)
+
 ## The Introduction: Understanding Workouts.
 
 The story begins with a basic yet important question: What benefits can different workouts provide?
