@@ -74,11 +74,15 @@ What elements of the story did you find most intriguing or surprising?
 What changes would make the visuals or narrative clearer?
 Did the story focus more on "fitness data" or "well-being"? How do you feel it should be framed?
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                              | Questions to Ask                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Assess story flow                 | What was your initial opinion of this story flow?                                |
+| Evaluate clarity of visuals       | Were the visualizations easy to understand? Which ones were the easiest to grasp?|
+| Identify confusing elements       | Did any charts confuse or overwhelm you?                                         |
+| Explore engagement and intrigue   | What elements of the story did you find most intriguing or surprising?            |
+| Gather improvement suggestions    | What changes would make the visuals or narrative clearer?                        |
+| Check framing preference          | Did the story focus more on "fitness data" or "well-being"? How should it be framed?|
+
 
 
 Text here!
