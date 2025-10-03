@@ -2,7 +2,7 @@
 
 # From Calories to Clarity: How Exercise Fuels Mental Health
 
-# Wireframes / storyboards
+# Storyboards
 When I first began this project, my focus was narrow: I wanted to see how different workouts compared in terms of physical performance. But from the professor's feedback and the critique exercise in the class, it became clear that the story could be so much bigger. Being fit has more to do with health risks, mental wellness, and even happiness than it does with calories and heart rate. I broadened my dataset to incorporate a wider range of fitness and lifestyle parameters in order to address this. This allowed me to tell a broader story of how exercise impacts not only the body, but also the mind and overall quality of life.
 
 This story's trajectory reflects the path of health itself: we start with the benefits of exercise, then discuss how it relates to risk and performance, and then conclude with how it affects happiness and mental health. I was able to produce a narrative that is more comprehensive, perceptive, and ultimately more relatable by enlarging my dataset and incorporating feedback.
@@ -123,7 +123,7 @@ The feedback highlighted where my visualizations already communicate effectively
 This is consistent with the professor's remarks and will guide the next revision of my project. In Part III, I will improve my visualizations and write a shorthand story to emphasize exercise as a tool for not only physical fitness, but also for living healthier, happier lives.
 
 
-# Moodboards / personas
+# Personas
 
 
 To ground the story in real-world perspectives, I created three personas that represent different segments of my target audience: Taylor, a college student balancing academics with light exercise for stress relief; Shanky, a young professional and software engineer at Amazon who uses his smartwatch and regular workouts to track both fitness and performance; and William, a novice athlete who trains at high intensity and is especially curious about the connection between These personas not only reflect the variety of exercise routines and objectives, but also demonstrate how fitness is seen differently across lifestyles, making the statistics more relatable and human-centered.
