@@ -145,6 +145,8 @@ To ground the story in real-world perspectives, I created three personas that re
 2. AtharvaSoundankar. (n.d.). *Mental Health and Lifestyle Habits (2019-2024)* [Data set]. Kaggle. [https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
    
 3. Grammarly. (n.d.). Grammarly: Free writing AI assistance [Software]. Grammarly, Inc. Retrieved October 2, 2025, from https://www.grammarly.com
+   
+4. Tableau Software, LLC. (2024). Tableau (Version [insert version used]) [Computer software]. Salesforce. https://www.tableau.com
 
 
 ## AI acknowledgements
