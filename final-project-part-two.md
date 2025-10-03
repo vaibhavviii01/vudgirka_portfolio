@@ -67,63 +67,59 @@ Each participant was presented a draft storyboard and Tableau visualizations. I 
 
 The following questions guided the interviews:
 
-What was your initial opinion of this story flow?
-Were the visualizations easy to understand? Which ones were the easiest to understand?
-Did any charts confuse or overwhelm you?
-What elements of the story did you find most intriguing or surprising?
-What changes would make the visuals or narrative clearer?
-Did the story focus more on "fitness data" or "well-being"? How do you feel it should be framed?
-
-| Goal                              | Questions to Ask                                                                 |
-|-----------------------------------|----------------------------------------------------------------------------------|
-| Assess story flow                 | What was your initial opinion of this story flow?                                |
-| Evaluate clarity of visuals       | Were the visualizations easy to understand? Which ones were the easiest to grasp?|
-| Identify confusing elements       | Did any charts confuse or overwhelm you?                                         |
-| Explore engagement and intrigue   | What elements of the story did you find most intriguing or surprising?            |
-| Gather improvement suggestions    | What changes would make the visuals or narrative clearer?                        |
-| Check framing preference          | Did the story focus more on "fitness data" or "well-being"? How should it be framed?|
+| Goal                                | Questions to Ask                                                                 |
+|-------------------------------------|----------------------------------------------------------------------------------|
+| Assess the story flow               | What was your initial opinion of this story flow?                                |
+| Evaluate clarity of visuals         | Were the visualizations easy to understand? Which ones were the easiest to grasp?|
+| Identify unclear/confusing elements | Did any charts confuse or overwhelm you?                                         |
+| Explore engagement and surprises    | What elements of the story did you find most intriguing or surprising?            |
+| Gather suggestions for improvement  | What changes would make the visuals or narrative clearer?                        |
+| Check framing preference            | Did the story focus more on "fitness data" or "well-being"? How should it be framed? |
 
 
+## Interview findings 
 
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                         | Interview 1 (Student)                                                                                       | Interview 2 (Professional)                                                                 | Interview 3 (Athlete)                                                                 |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Initial impression of the story   | Found Gender Comparison chart very relatable: *“I could see myself in this, it felt personal.”*              | Engaged with BMI vs Resting BPM scatterplot: *“The cutoffs make it instantly clear who’s at risk.”* | Found Workout Type Effectiveness chart most useful for reflecting on training choices.  |
+| Clarity of visualizations         | Struggled with Clustering chart — hard to follow without descriptive labels.                                | Felt story leaned too much toward fitness data, needed stronger focus on mental health.    | Enjoyed Diet × Exercise × Happiness chart, found it “surprising and fun.”               |
+| Suggestions for improvement       | Suggested simpler legends and more annotations for clarity.                                                 | Suggested connecting visuals more explicitly to lifestyle and mental health impacts.       | Suggested highlighting unexpected insights more directly (e.g., junk food + exercise). |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+| Research synthesis                                                                                  | Anticipated changes for Part III                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Clustering chart was confusing and hard to interpret without labels.                                | Rename clusters with descriptive labels (e.g., “Casual Exercisers,” “Efficient Burners,” “High Performers”). |
+| BMI scatterplot and Diet × Happiness chart lacked clarity in interpretation.                        | Add annotations to highlight significance of quadrants and spikes.                              |
+| Narrative felt too focused on fitness numbers rather than well-being.                               | Reframing introductions to emphasize mental health and lifestyle impacts alongside fitness.        |
+| Legends and colors in the mental health stacked bar chart were difficult to parse.                   | Simplify legends and adjust color schemes to improve readability.                               |
+| Readers may miss key insights unless explicitly pointed out.                                        | Use callouts, subtitles, and annotations to highlight important lessons directly.                |
+| Gender Comparison and Diet × Exercise × Happiness charts were engaging and clear.                   | Keep these visualizations as they are, but use them as models for clarity in other charts.       |
 
-Text here!
+The feedback highlighted where my visualizations already communicate effectively (Gender disparity chart, workout effectiveness chart)  and where they want improvement (Clustering, Scatterplot). Importantly, participants felt that the story should focus on how these decisions relate to mental health, stress, and happiness more rather than calories and workouts in and of themselves.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+This is consistent with the professor's remarks and will guide the next revision of my project. In Part III, I will improve my visualizations and write a shorthand story to emphasize exercise as a tool for not only physical fitness, but also for living healthier, happier lives.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+To ground the story in real-world perspectives, I created three personas that represent different segments of my target audience: Taylor, a college student balancing academics with light exercise for stress relief; Shanky, a young professional and software engineer at Amazon who uses his smartwatch and regular workouts to track both fitness and performance; and William, a novice athlete who trains at high intensity and is especially curious about the connection between These personas not only reflect the variety of exercise routines and objectives, but also demonstrate how fitness is seen differently across lifestyles, making the statistics more relatable and human-centered.
+
+<img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/850c3452-53a7-465d-967f-e225d2abfe12" />
+
+<img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/9a20f22b-8fb8-4b3f-a28a-6f287b22f2b9" />
+
+<img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/1cd6b7f6-9b8e-47cd-967a-cb0c65552ce1" />
+
 
 ## References
-_List any references you used here._
+
+1. Valakhorasani. (n.d.). *Gym Members Exercise Dataset* [Data set]. Kaggle. Retrieved from [https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data)
+
+2. AtharvaSoundankar. (n.d.). *Mental Health and Lifestyle Habits (2019-2024)* [Data set]. Kaggle. [https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
+   
+3. Grammarly. (n.d.). Grammarly: Free writing AI assistance [Software]. Grammarly, Inc. Retrieved October 2, 2025, from https://www.grammarly.com
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline, generate persona imagesand help me to brainstorm titles.
 
