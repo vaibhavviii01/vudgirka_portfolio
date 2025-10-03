@@ -16,29 +16,42 @@ The story begins with a basic yet important question: What benefits can differen
 
 In my Workout Effectiveness by Type visualization, I display calories burned and average BPM for cardio, HIIT, strength, and yoga. The takeaway is evident: each workout has a distinct function. HIIT increases intensity, Cardio and Strength improve calorie efficiency, while Yoga gives restorative benefits at a reduced intensity. This lays the groundwork – exercise is not one-size-fits-all, and people choose activities for a variety of reasons.
 
+
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/172eb902-6741-46ac-b255-a5e08ef0163c" />
+
+
 
 From here, I zoom in on individual differences. My Gender-Based Workout Performance chart analyzes calories, BPM, and session duration for both male and female participants. The interesting lesson is that, whereas males burn more calories, their effort levels (heart rate and duration) are nearly identical. This shows that the difference is driven by physiology rather than motivation, highlighting the need of carefully interpreting fitness data.
 
+
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/097235ed-a050-4e6d-baad-1a40fa2f365a" />
+
+
 
 ## The Middle: Identifying Risk and Segmentation
 
 The next section of the story moves from performance to health. Using Clustering Fitness Profiles, I divide gym members into natural groups. Some are casual exercisers who engage in short, light workouts. Others are steady and moderate burners. Then there's a set of top performers who push both length and calorie burn to their limits. These clusters serve as a reminder that fitness experiences vary greatly, and that no single message or regimen will appeal to everyone. 
 
+
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/9d533fdb-15b4-4ecd-89b7-4c8b4de55581" />
+
 
 However, exercise is more than just a choice; it is also about risk. In the Health Risk Patterns (BMI vs Resting BPM) scatterplot, I use cutoff lines at BMI 30 and BPM 90 to distinguish between individuals in the safe and worrisome zones. The majority of participants fall into the healthy quadrant, however a subset with a high BMI and higher resting BPM stands out. This  group may require not just encouragement to exercise more, but also medical supervision and closer monitoring.  My dataset doesn't include any "At Risk" people (Fortunately! good for them!). The picture below represents the story's transition from physical performance to potential health repercussions.
 
+
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/744f1960-9986-4d46-afe5-43bb1b3d5a69" />
+
 
 ## The End: The Mind-Lifestyle Connection
 
 The final act of the story expands on mental health and lifestyle outcomes. The "Mental Health Condition Distribution by Exercise Level" visualization presents a compelling picture: people who exercise more have much fewer incidences of anxiety and depression, whereas those who exercise less have greater rates of these diseases. The data reinforces what many suspect but now see clearly, physical activity protects mental health!
 
+
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/78bc8c87-813b-4fa9-b008-15e75ca41e0c" />
 
+
 Finally, I conclude with happiness because, at the end of the day, health is more than just preventing illness; it is also about living well.  The Diet × Exercise × Happiness chart shows how different diets and activity levels influence happiness. Balanced meals mixed with high levels of activity promote sustained well-being, although there are some exceptions, such as junk food combined with moderate exercise resulting in a temporary increase in happiness. This presents an intriguing question, which I'd like to investigate further: why does this paradoxical pattern appear, and what psychological or physiological elements could explain it? It serves as a reminder that health is multifaceted, and that short-term happiness does not always equate to long-term well-being.
+
 
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/7e317336-0412-49e7-a190-955ec791609e" />
 
@@ -67,6 +80,7 @@ Each participant was presented a draft storyboard and Tableau visualizations. I 
 
 The following questions guided the interviews:
 
+
 | Goal                                | Questions to Ask                                                                 |
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Assess the story flow               | What was your initial opinion of this story flow?                                |
@@ -77,7 +91,9 @@ The following questions guided the interviews:
 | Check framing preference            | Did the story focus more on "fitness data" or "well-being"? How should it be framed? |
 
 
+
 ## Interview findings 
+
 
 | Questions                         | Interview 1 (Student)                                                                                       | Interview 2 (Professional)                                                                 | Interview 3 (Athlete)                                                                 |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -86,7 +102,10 @@ The following questions guided the interviews:
 | Suggestions for improvement       | Suggested simpler legends and more annotations for clarity.                                                 | Suggested connecting visuals more explicitly to lifestyle and mental health impacts.       | Suggested highlighting unexpected insights more directly (e.g., junk food + exercise). |
 
 
+
 # Identified changes for Part III
+
+
 | Research synthesis                                                                                  | Anticipated changes for Part III                                                                 |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Clustering chart was confusing and hard to interpret without labels.                                | Rename clusters with descriptive labels (e.g., “Casual Exercisers,” “Efficient Burners,” “High Performers”). |
@@ -96,19 +115,28 @@ The following questions guided the interviews:
 | Readers may miss key insights unless explicitly pointed out.                                        | Use callouts, subtitles, and annotations to highlight important lessons directly.                |
 | Gender Comparison and Diet × Exercise × Happiness charts were engaging and clear.                   | Keep these visualizations as they are, but use them as models for clarity in other charts.       |
 
+
+
 The feedback highlighted where my visualizations already communicate effectively (Gender disparity chart, workout effectiveness chart)  and where they want improvement (Clustering, Scatterplot). Importantly, participants felt that the story should focus on how these decisions relate to mental health, stress, and happiness more rather than calories and workouts in and of themselves.
+
 
 This is consistent with the professor's remarks and will guide the next revision of my project. In Part III, I will improve my visualizations and write a shorthand story to emphasize exercise as a tool for not only physical fitness, but also for living healthier, happier lives.
 
+
 # Moodboards / personas
+
 
 To ground the story in real-world perspectives, I created three personas that represent different segments of my target audience: Taylor, a college student balancing academics with light exercise for stress relief; Shanky, a young professional and software engineer at Amazon who uses his smartwatch and regular workouts to track both fitness and performance; and William, a novice athlete who trains at high intensity and is especially curious about the connection between These personas not only reflect the variety of exercise routines and objectives, but also demonstrate how fitness is seen differently across lifestyles, making the statistics more relatable and human-centered.
 
+
 <img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/850c3452-53a7-465d-967f-e225d2abfe12" />
+
 
 <img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/9a20f22b-8fb8-4b3f-a28a-6f287b22f2b9" />
 
+
 <img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/1cd6b7f6-9b8e-47cd-967a-cb0c65552ce1" />
+
 
 
 ## References
