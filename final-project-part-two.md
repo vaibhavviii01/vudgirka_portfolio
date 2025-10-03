@@ -14,7 +14,7 @@ I will use this storyboard as the basis for my Part III draft in Shorthand, wher
 
 The story begins with a basic yet important question: What benefits can different workouts provide?
 
-In my Workout Effectiveness by Type visualization, I display calories burned and average BPM for cardio, HIIT, strength, and yoga. The takeaway is evident: each workout has a distinct function. HIIT increases intensity, Cardio and Strength improve calorie efficiency, while Yoga gives restorative benefits at a reduced intensity. This lays the groundwork – exercise is not one-size-fits-all, and people choose activities for a variety of reasons.
+In my Workout Effectiveness by Type visualization, I display calories burned and average BPM for cardio, HIIT, strength, and yoga. The takeaway is evident: each workout has a distinct function. HIIT increases intensity, Cardio and Strength improve calorie efficiency, while Yoga gives restorative benefits at a reduced intensity. This lays the groundwork – _"Exercise is not one-size-fits-all, and people choose activities for a variety of reasons"._
 
 
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/172eb902-6741-46ac-b255-a5e08ef0163c" />
@@ -50,7 +50,7 @@ The final act of the story expands on mental health and lifestyle outcomes. The 
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/78bc8c87-813b-4fa9-b008-15e75ca41e0c" />
 
 
-Finally, I conclude with happiness because, at the end of the day, health is more than just preventing illness; it is also about living well.  The Diet × Exercise × Happiness chart shows how different diets and activity levels influence happiness. Balanced meals mixed with high levels of activity promote sustained well-being, although there are some exceptions, such as junk food combined with moderate exercise resulting in a temporary increase in happiness. This presents an intriguing question, which I'd like to investigate further: why does this paradoxical pattern appear, and what psychological or physiological elements could explain it? It serves as a reminder that health is multifaceted, and that short-term happiness does not always equate to long-term well-being.
+Finally, I conclude with happiness because, at the end of the day, health is more than just preventing illness; it is also about living well.  The Diet × Exercise × Happiness chart shows how different diets and activity levels influence happiness. Balanced meals mixed with high levels of activity promote sustained well-being, although there are some exceptions, such as junk food combined with moderate exercise resulting in a temporary increase in happiness. This presents an intriguing question, which I'd like to investigate further, _"Why does this paradoxical pattern appear, and what psychological or physiological elements could explain it?"_ It serves as a reminder that health is multifaceted, and that short-term happiness does not always equate to long-term well-being.
 
 
 <img width="1096" height="682" alt="image" src="https://github.com/user-attachments/assets/7e317336-0412-49e7-a190-955ec791609e" />
@@ -64,7 +64,7 @@ To improve my storyboard and ensure that my visuals are clear and engaging, I ca
 
 The major target audience for this narrative is young adults and working professionals who are health-conscious but not data experts. They are people who monitor their fitness levels (via wearables or gym records), are interested in exercise and wellness, and want to understand how their lifestyle choices affect their mental and physical health.
 
-**Approach to Identifying Participants**
+**Approach to Identifying Participants:**
 
 I chose three people from my network to represent this audience.
 
@@ -98,7 +98,7 @@ The following questions guided the interviews:
 | Questions                         | Interview 1 (Student)                                                                                       | Interview 2 (Professional)                                                                 | Interview 3 (Athlete)                                                                 |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Initial impression of the story   | Found Gender Comparison chart very relatable: *“I could see myself in this, it felt personal.”*              | Engaged with BMI vs Resting BPM scatterplot: *“The cutoffs make it instantly clear who’s at risk.”* | Found Workout Type Effectiveness chart most useful for reflecting on training choices.  |
-| Clarity of visualizations         | Struggled with Clustering chart — hard to follow without descriptive labels.                                | Felt story leaned too much toward fitness data, needed stronger focus on mental health.    | Enjoyed Diet × Exercise × Happiness chart, found it “surprising and fun.”               |
+| Clarity of visualizations         | Struggled with Clustering chart, hard to follow without descriptive labels.                                | Felt story leaned too much toward fitness data, needed stronger focus on mental health.    | Enjoyed Diet × Exercise × Happiness chart, found it “surprising and fun.”               |
 | Suggestions for improvement       | Suggested simpler legends and more annotations for clarity.                                                 | Suggested connecting visuals more explicitly to lifestyle and mental health impacts.       | Suggested highlighting unexpected insights more directly (e.g., junk food + exercise). |
 
 
@@ -109,7 +109,6 @@ The following questions guided the interviews:
 | Research synthesis                                                                                  | Anticipated changes for Part III                                                                 |
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Clustering chart was confusing and hard to interpret without labels.                                | Rename clusters with descriptive labels (e.g., “Casual Exercisers,” “Efficient Burners,” “High Performers”). |
-| BMI scatterplot and Diet × Happiness chart lacked clarity in interpretation.                        | Add annotations to highlight significance of quadrants and spikes.                              |
 | Narrative felt too focused on fitness numbers rather than well-being.                               | Reframing introductions to emphasize mental health and lifestyle impacts alongside fitness.        |
 | Legends and colors in the mental health stacked bar chart were difficult to parse.                   | Simplify legends and adjust color schemes to improve readability.                               |
 | Readers may miss key insights unless explicitly pointed out.                                        | Use callouts, subtitles, and annotations to highlight important lessons directly.                |
@@ -126,7 +125,7 @@ This is consistent with the professor's remarks and will guide the next revision
 # Personas
 
 
-To ground the story in real-world perspectives, I created three personas that represent different segments of my target audience: Taylor, a college student balancing academics with light exercise for stress relief; Shanky, a young professional and software engineer at Amazon who uses his smartwatch and regular workouts to track both fitness and performance; and William, a novice athlete who trains at high intensity and is especially curious about the connection between These personas not only reflect the variety of exercise routines and objectives, but also demonstrate how fitness is seen differently across lifestyles, making the statistics more relatable and human-centered.
+To ground the story in real-world perspectives, I created three personas that represent different segments of my target audience: Taylor, a college student balancing academics with light exercise for stress relief; Shanky, a young professional and software engineer at Amazon who uses his smartwatch and regular workouts to track both fitness and performance; and William, a novice athlete who trains at high intensity and is especially curious about the connection between. These personas not only reflect the variety of exercise routines and objectives, but also demonstrate how fitness is seen differently across lifestyles, making the statistics more relatable and human-centered.
 
 
 <img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/850c3452-53a7-465d-967f-e225d2abfe12" />
@@ -149,5 +148,5 @@ To ground the story in real-world perspectives, I created three personas that re
 
 
 ## AI acknowledgements
-I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline, generate persona imagesand help me to brainstorm titles.
+I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline, generate persona images and help me to brainstorm titles.
 
